@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment #3</string>
+    <string name="hello_world">Hello worl</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- BUTTON LABELS -->
+    <string name="pink_btn">Add Pink</string>
+    <string name="gold_btn">Add Gold</string>
+    <string name="clear_btn">CLEAR</string>
+    <string name="Add_Gold">Add Gold</string>
+    <string name="add_pink">Add Pink</string>
+    <string name="text_button">Text</string>
+    <string name="circle_button">Circle</string>
+    <string name="oval_button">Oval</string>
+    <string name="rectangle_add">Rectangle</string>
+
+</resources>

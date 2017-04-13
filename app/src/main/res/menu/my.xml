@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item android:id="@+id/action_settings"
+        android:title="@string/text_button"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/add_pink_menu"
+        android:title = "@string/circle_button"
+        android:orderInCategory="200"
+        app:showAsAction="never"/>
+    <item android:id="@+id/add_oval"
+        android:title = "@string/oval_button"
+        android:orderInCategory="300"
+        app:showAsAction="never"/>
+    <item android:id="@+id/add_rectangle"
+        android:title = "@string/rectangle_add"
+        android:orderInCategory="400"
+        app:showAsAction="never"/>
+</menu>
